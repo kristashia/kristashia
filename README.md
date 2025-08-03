@@ -28,19 +28,12 @@ Always building. Always learning.
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Creative_Suite-FF0000?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=invision&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axure_RP-094AB2?style=for-the-badge&logo=axure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Marvel-FF5F63?style=for-the-badge&logo=marvelapp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black" />
 </p>
 
 ## Let's Connect
