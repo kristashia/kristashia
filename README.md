@@ -6,7 +6,7 @@ I build scalable, user-focused experiences with clean, thoughtful code—balanci
 
 Always building. Always learning.
 
-## 🧰 Tech Stack
+## Tech Stack
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
@@ -43,7 +43,7 @@ Always building. Always learning.
   <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black" />
 </p>
 
-## 📬 Let's Connect
+## Let's Connect
 If you’d like to connect or collaborate:
 
 <p align="center">
