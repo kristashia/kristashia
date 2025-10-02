@@ -1,10 +1,10 @@
 # Hi, I’m Kristashia!👋
 
-I am a multifaceted engineer exploring the overlap of full-stack development, front-end, UI/UX, Artificial Intelligence, and immersive tech like AR/VR.
+I am a multifaceted engineer exploring the overlap of full-stack development, front-end, UI/UX, Product Design, Artificial Intelligence, and immersive tech like AR/VR.
 
-I build scalable, user-focused experiences with clean, thoughtful code—balancing creative design with strong systems thinking. From interactive UIs to full-stack apps and experimental interfaces, I enjoy turning ideas into real, usable things.
+I build scalable, user-focused experiences with clean, thoughtful code balancing creative design with strong systems thinking. From interactive UIs to full-stack apps and experimental interfaces, I enjoy turning ideas into real, usable solutions.
 
-Always building. Always learning.
+Always designing. Always improving. Always learning.
 
 ## Tech Stack
 <p>
